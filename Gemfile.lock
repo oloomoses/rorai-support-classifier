@@ -4,6 +4,7 @@ GEM
     connection_pool (3.0.2)
     diff-lcs (1.6.2)
     dotenv (3.2.0)
+    json (2.21.2)
     logger (1.7.0)
     openai (0.92.0)
       connection_pool (>= 2.2.3)
@@ -28,6 +29,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
+  json (< 3.0)
   openai
   rspec
 
