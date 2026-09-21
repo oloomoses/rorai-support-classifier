@@ -1,0 +1,16 @@
+{
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "go": false
+  },
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showStatusBar": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "extensions.ignoreRecommendations": true
+}
