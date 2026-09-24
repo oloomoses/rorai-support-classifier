@@ -3,7 +3,7 @@ require_relative "config/initializers/openai"
 require_relative "app/services/support_classifier"
 
 text = <<~TEXT
-    How do I tip the cashier, they were polite and versy supportive.
+    Gi manang'ieo ok a yudo, Okelna mopogore. Adwaro mondo udwokna pesana: Language is dholuo
 TEXT
 
 classifier = SupportClassifier.new
